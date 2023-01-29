@@ -1,0 +1,26 @@
+[
+    {
+        "id": 1,
+        "title": "Sakiz",
+        "price": 0.5,
+        "image": "https://productimages.hepsiburada.net/s/25/1500/10127231615026.jpg"
+    },
+    {
+        "id": 2,
+        "title": "Kola",
+        "price": 5,
+        "image": "https://www.action.com/_next/image/?url=https%3A%2F%2Faction.com%2Fhostedassets%2FCMSArticleImages%2F25%2F61%2F3007084_42399599-111_02.png&w=640&q=75"
+    },
+    {
+        "id": 3,
+        "title": "Ayakkabi",
+        "price": 400,
+        "image": "https://st-vans.mncdn.com/mnresize/1500/1500/Content/media/ProductImg/original/637639372726016847.jpg"
+    },
+    {
+        "id": 4,
+        "title": "Araba",
+        "price": 400000,
+        "image": "https://productimages.hepsiburada.net/s/79/375/110000021527309.jpg"
+    }
+]
